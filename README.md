@@ -1,2 +1,27 @@
-# SVC-PROJECT
- DSVC Showcase  Explore the capabilities of DSVC (Data Science Visualization Component) in this repository. DSVC empowers data scientists with dynamic, customizable visualizations that seamlessly integrate into projects. With support for various data sources, it offers an interactive and versatile solution for impactful data storytelling. Check out examples in the 'examples' directory, follow the clear documentation in 'docs' for integration, and contribute to enhance DSVC. Open source under the MIT License.  Get Started with DSVC | Documentation | Contribute | MIT License
+# algorithm-visualizer 
+
+### Completed Algorithm
+* Sorting
+  * Bubble Sort
+  * Insertion Sort
+* Searching
+  * Linear Search
+  * Binary Search
+
+
+## Setup
+
+The first thing to do is to clone the repository:
+
+```sh
+$ git clone https://github.com/sj1705/SVC-Project.git
+```
+Then open `index.html` in the browser. That's it
+
+### What I've used in this project
+
+* JavaScript
+* Async & Await function of javaScript
+* D3.js for data visualization
+* Algorithms
+* Html & CSS
