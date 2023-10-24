@@ -1,5 +1,6 @@
 # algorithm-visualizer 
 
+
 ### Completed Algorithm
 * Sorting
   * Bubble Sort
@@ -22,6 +23,6 @@ Then open `index.html` in the browser. That's it
 
 * JavaScript
 * Async & Await function of javaScript
-* D3.js for data visualization
+* Data visualization
 * Algorithms
 * Html & CSS
