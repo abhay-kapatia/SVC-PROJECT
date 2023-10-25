@@ -14,7 +14,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/sj1705/SVC-Project.git
+$ git clone https://github.com/abhay-kapatia/SVC-PROJECT.git
 ```
 Then open `index.html` in the browser. That's it
 
