@@ -75,4 +75,42 @@
 
       <br />
 
-      
+      <div class="row">
+        <div class="col-md-3">
+          <button class="btn btn-info" id="random-data">
+            Generate Random Data
+          </button>
+        </div>
+        <div class="col-md-3">
+          <label>
+            Speed:
+            <input
+              type="range"
+              id="speed"
+              name="speed"
+              min="100"
+              max="800"
+              value="300"
+              onchange="setSpeed()"
+            />
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="bar-chart">
+        <div id="chart"></div>
+        <hr />
+      </div>
+    </div>
+    <div id="foundNotice" class="container text-success text-center"></div>
+
+    <footer>
+
+    </footer>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="base.js"></script>
+    <script src="function.js"></script>
+  </body>
+</html>
+   
